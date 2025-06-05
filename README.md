@@ -1,1 +1,1 @@
-# Python-Contest
+# Python-Contest documentation
