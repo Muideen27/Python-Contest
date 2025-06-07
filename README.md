@@ -60,3 +60,8 @@ _Code checking begins at 5:30 PM (America/Chicago). You should finish by 5:40 PM
 `git add README.md` 
 `git commit -m "my first commit"`
 `git push`
+
+## 6. Creating a branch
+
+1. we use the command `git branch` to chech the avaliable branches 
+2. To create a branch we use `git checkout -b <name of branch>`
