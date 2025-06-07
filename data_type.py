@@ -14,3 +14,5 @@ type = type(result)
 # print(result)
 print(f"The result is: {result}") # formating statment
 print(f"The type of the data is: {type}")
+
+## ALWAYS SAVE YOUR FILE CTRL S
